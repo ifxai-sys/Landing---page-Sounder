@@ -172,7 +172,7 @@ nav ul a:hover::after { width: 100%; }
 .hero-bg {
     position: absolute;
     inset: 0;
-    background-image: url("airpods.png");
+    background-image: url("assets/airpods.png");
     background-size: cover;
     background-position: center;
     filter: blur(28px);
